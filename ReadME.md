@@ -1,6 +1,6 @@
 # Form Validator
 
-> This is a form validator for the front end, built with JavaScript, HTML and CSS.
+> This is a form validator for the front end built with JavaScript, HTML and CSS.
 
 > _screen shot sample below!_
 
